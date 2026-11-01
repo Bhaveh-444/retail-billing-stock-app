@@ -37,3 +37,13 @@ python prepare_dataset.py zepto_v1.xlsx --rows 800 --price-divisor 100
 python -m streamlit run app.py
 ```
 Skip the second command to use the included `stock.csv`, or run `python generate_dataset.py` for sample data.
+
+## Requirements
+- Python 3.10 or newer (developed and tested on Python 3.14)
+- Packages: `streamlit`, `pandas`, `openpyxl` (installed from `requirements.txt`)
+
+## Important
+Run the app from inside the project folder, because it loads `stock.csv` from the current directory:
+
+    cd retail-billing-stock-app
+    python -m streamlit run app.py
