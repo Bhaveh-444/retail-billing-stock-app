@@ -47,3 +47,5 @@ Run the app from inside the project folder, because it loads `stock.csv` from th
 
     cd retail-billing-stock-app
     python -m streamlit run app.py
+    ## Live demo
+https://retail-billing-stock-app.streamlit.app
