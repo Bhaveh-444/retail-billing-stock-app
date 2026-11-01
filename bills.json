@@ -1,0 +1,23 @@
+[
+    {
+        "bill_no": 1,
+        "date": "01-11-2026 16:58",
+        "customer": "Deepti Muley",
+        "items": [
+            {
+                "id": 1001,
+                "name": "Onion",
+                "price": 21.0,
+                "qty": 3,
+                "amount": 63.0
+            }
+        ],
+        "totals": {
+            "subtotal": 63.0,
+            "discount_pct": 0,
+            "discount": 0.0,
+            "gst": 11.34,
+            "total": 74.34
+        }
+    }
+]

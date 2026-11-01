@@ -1,0 +1,801 @@
+id,name,category,price,qty
+1001,Onion,Fruits & Vegetables,21.0,0
+1002,Tomato Hybrid,Fruits & Vegetables,35.0,3
+1003,Tender Coconut,Fruits & Vegetables,43.0,3
+1004,Coriander Leaves,Fruits & Vegetables,17.0,3
+1005,Ladies Finger,Fruits & Vegetables,12.0,3
+1006,Potato,Fruits & Vegetables,29.0,3
+1007,Lemon,Fruits & Vegetables,63.0,3
+1008,Watermelon,Fruits & Vegetables,49.0,3
+1009,Capsicum Green,Fruits & Vegetables,19.0,3
+1010,Chilli Green,Fruits & Vegetables,16.0,3
+1011,Banana Robusta,Fruits & Vegetables,24.0,3
+1012,Garlic Indian,Fruits & Vegetables,9.0,3
+1013,Cauliflower,Fruits & Vegetables,22.0,3
+1014,Ginger,Fruits & Vegetables,12.0,3
+1015,Spinach,Fruits & Vegetables,16.0,3
+1016,Muskmelon,Fruits & Vegetables,35.0,3
+1017,Cabbage,Fruits & Vegetables,13.0,3
+1018,Methi,Fruits & Vegetables,25.0,3
+1019,Broccoli,Fruits & Vegetables,30.0,3
+1020,Sapota,Fruits & Vegetables,25.0,3
+1021,Orange Nagpur,Fruits & Vegetables,69.0,3
+1022,Mint Leaves,Fruits & Vegetables,9.0,3
+1023,Beans French,Fruits & Vegetables,28.0,3
+1024,Bottle Gourd,Fruits & Vegetables,22.0,3
+1025,Banana Elaichi,Fruits & Vegetables,49.0,3
+1026,Coconut Big,Fruits & Vegetables,30.0,3
+1027,Curry Leaves,Fruits & Vegetables,11.0,3
+1028,Brinjal Bharta,Fruits & Vegetables,16.0,3
+1029,Lettuce Iceberg,Fruits & Vegetables,21.0,3
+1030,Papaya,Fruits & Vegetables,45.0,3
+1031,Apple Shimla,Fruits & Vegetables,119.0,3
+1032,Bitter Gourd,Fruits & Vegetables,15.0,3
+1033,Brinjal Small,Fruits & Vegetables,15.0,3
+1034,Sweet Corn,Fruits & Vegetables,30.0,3
+1035,Spring Onion,Fruits & Vegetables,15.0,3
+1036,Bell Peppers Red & Yellow,Fruits & Vegetables,99.0,3
+1037,Pomegranate,Fruits & Vegetables,89.0,3
+1038,Sweet Lime,Fruits & Vegetables,25.0,3
+1039,Baby Potato,Fruits & Vegetables,16.0,3
+1040,Coccinia,Fruits & Vegetables,27.0,3
+1041,Guava,Fruits & Vegetables,45.0,3
+1042,Apple Washington,Fruits & Vegetables,149.0,3
+1043,Amla,Fruits & Vegetables,27.0,3
+1044,Beans Cluster,Fruits & Vegetables,25.0,3
+1045,Apple Royal Gala,Fruits & Vegetables,159.0,3
+1046,Chilli Bhaji,Fruits & Vegetables,25.0,3
+1047,Lettuce Green,Fruits & Vegetables,19.0,3
+1048,Baby Corn Peeled,Fruits & Vegetables,29.0,3
+1049,Mixed Sprouts,Fruits & Vegetables,29.0,3
+1050,Zucchini Green,Fruits & Vegetables,29.0,3
+1051,Beans Broad,Fruits & Vegetables,35.0,3
+1052,Raw Banana,Fruits & Vegetables,17.0,6
+1053,Colocasia,Fruits & Vegetables,24.0,6
+1054,Tomato Cherry,Fruits & Vegetables,29.0,3
+1055,Sweet Potato,Fruits & Vegetables,32.0,3
+1056,Pineapple Slice,Fruits & Vegetables,75.0,3
+1057,Orange,Fruits & Vegetables,45.0,3
+1058,Dragon Fruit Imported,Fruits & Vegetables,59.0,3
+1059,Zucchini Yellow,Fruits & Vegetables,35.0,3
+1060,Apple Kinnaur,Fruits & Vegetables,119.0,6
+1061,Pineapple,Fruits & Vegetables,79.0,3
+1062,Basil,Fruits & Vegetables,17.0,3
+1063,Parsley,Fruits & Vegetables,14.0,3
+1064,Ridge Gourd,Fruits & Vegetables,25.0,3
+1065,Papaya Cut,Fruits & Vegetables,39.0,3
+1066,Pomegranate Peeled,Fruits & Vegetables,49.0,2
+1067,Pear Green Imported,Fruits & Vegetables,69.0,3
+1068,Guava Thai,Fruits & Vegetables,59.0,3
+1069,Lettuce Red,Fruits & Vegetables,17.0,3
+1070,Mango Raw,Fruits & Vegetables,50.0,3
+1071,Biryani /Pulav Mix,Fruits & Vegetables,49.0,3
+1072,Banana Nendran,Fruits & Vegetables,45.0,6
+1073,Pumpkin Cut,Fruits & Vegetables,25.0,3
+1074,Banana Red,Fruits & Vegetables,45.0,6
+1075,Radish White,Fruits & Vegetables,19.0,6
+1076,Avocado Indian Premium,Fruits & Vegetables,149.0,3
+1077,Banana Leaf,Fruits & Vegetables,10.0,2
+1078,Sponge Gourd,Fruits & Vegetables,21.0,2
+1079,Zama Organics Carrot,Fruits & Vegetables,17.0,3
+1080,Safal Frozen - Mixed Vegetables,Fruits & Vegetables,105.0,2
+1081,Zama Organics Sweet Potato,Fruits & Vegetables,31.0,3
+1082,Beetroot,Fruits & Vegetables,13.0,3
+1083,Capsicum,Fruits & Vegetables,21.0,3
+1084,Carrot,Fruits & Vegetables,15.0,3
+1085,Garlic,Fruits & Vegetables,13.0,3
+1086,Moong Sprouts,Fruits & Vegetables,29.0,0
+1087,Safal Frozen Mixed Vegetables,Fruits & Vegetables,57.0,0
+1088,Safal Frozen Corn,Fruits & Vegetables,39.0,0
+1089,Safal Frozen - Sweet Corn,Fruits & Vegetables,152.0,0
+1090,Maggi 2 Minute Masala Noodles,Cooking Essentials,12.0,6
+1091,iD Idli & Dosa Batter,Cooking Essentials,68.0,6
+1092,Tata Salt,Cooking Essentials,24.0,6
+1093,Arden Eggs White,Cooking Essentials,97.0,4
+1094,Fortune Sunlite Refined Sunflower (Pouch),Cooking Essentials,219.0,6
+1095,Aashirvaad Superior MP Atta,Cooking Essentials,245.0,6
+1096,Amul Pure Ghee (Pouch),Cooking Essentials,249.0,6
+1097,Arden Eggs Brown,Cooking Essentials,79.0,4
+1098,Tata Salt Lite,Cooking Essentials,36.0,6
+1099,Saffola Gold Oil (Pouch),Cooking Essentials,215.0,6
+1100,Fortune Sunlite Refined Sunflower (Jar),Cooking Essentials,925.0,6
+1101,Fortune Rice Bran (Pouch),Cooking Essentials,199.0,6
+1102,Saffola Active Oil,Cooking Essentials,210.0,6
+1103,Aashirvaad Atta,Cooking Essentials,399.0,6
+1104,Popular Essentials Toor Dal (Un-Polished),Cooking Essentials,149.0,4
+1105,Amul Ghee (Tin),Cooking Essentials,509.0,6
+1106,Amul Fresh Cream,Cooking Essentials,191.0,3
+1107,Popular Essentials Pure Jaggery,Cooking Essentials,49.0,6
+1108,Aashirvaad Multigrain Atta,Cooking Essentials,62.0,2
+1109,Fortune Soyabean Oil,Cooking Essentials,999.0,6
+1110,Popular Essentials Sunflower Seeds,Cooking Essentials,25.0,6
+1111,Tata Sampann kabuli chana,Cooking Essentials,183.0,4
+1112,Dhara Groundnut Oil (Pouch),Cooking Essentials,203.0,6
+1113,Dhara Health Refined Sun Flower Oil Jar,Cooking Essentials,984.0,6
+1114,24 Mantra Organic Jaggery Powder,Cooking Essentials,68.0,6
+1115,Tata Sampann High Protien Kabuli Chana,Cooking Essentials,94.0,1
+1116,Dhara Kachi Ghani Mustard Oil Jar,Cooking Essentials,1143.0,6
+1117,D'lecta Dairy Cream,Cooking Essentials,51.0,6
+1118,Ching's Secret Instant Hot Garlic Noodles,Cooking Essentials,15.0,3
+1119,Dabur Ginger Garlic Paste,Cooking Essentials,23.0,3
+1120,Ching's Secret Instant Schezwan Noodles,Cooking Essentials,15.0,6
+1121,Gowardhan Ghee/Tuppa Jar,Cooking Essentials,309.0,6
+1122,Tata Sampann Unpolished Moong Dal,Cooking Essentials,88.0,4
+1123,Aashirvaad Select Atta,Cooking Essentials,64.0,6
+1124,Popular Essentials Misri Dana (Diamond Sugar),Cooking Essentials,15.0,4
+1125,Gowardhan Ghee Jar,Cooking Essentials,579.0,6
+1126,Top Ramen  Noodles Curry Veg Pouch,Cooking Essentials,20.0,1
+1127,Popular Essentials Refined Sugar,Cooking Essentials,60.0,6
+1128,Fortune Kachi Ghani Mustard Oil Bottle,Cooking Essentials,199.0,6
+1129,Saffola Veggie Twist Masala Oats,Cooking Essentials,15.0,6
+1130,Satyam Puffed Rice Kurmura (R),Cooking Essentials,23.0,6
+1131,Quaker Oats,Cooking Essentials,79.0,2
+1132,Aashirvaad Select Sharbati Atta,Cooking Essentials,283.0,6
+1133,Gowardhan Cow Ghee Pouch,Cooking Essentials,521.0,6
+1134,Dhara Nourish Refined Sunflower Oil Pouch,Cooking Essentials,199.0,6
+1135,Parachute Oil,Cooking Essentials,37.0,3
+1136,Popular Essentials Plain Puffed Rice (Murmura/Muri),Cooking Essentials,18.0,6
+1137,Amul Mithai Mate Condensed Sweetened Milk,Cooking Essentials,54.0,4
+1138,Saffola Gold (Jar),Cooking Essentials,1240.0,6
+1139,McCain New Mini Samosa with Cheese Pizza Style Filling,Cooking Essentials,118.0,3
+1140,Fortune Rice Bran Health Oil (Jar),Cooking Essentials,1039.0,6
+1141,Arden Desi Eggs,Cooking Essentials,95.0,4
+1142,Fortune Rozana Basmati Rice,Cooking Essentials,462.0,6
+1143,Fortune Biriyani Special Basmati Rice,Cooking Essentials,175.0,5
+1144,Everest Garam Masala,Cooking Essentials,72.0,5
+1145,Popular Essentials Pumpkin Seeds,Cooking Essentials,75.0,6
+1146,Fortune Soya Health Refined Soybean Oil,Cooking Essentials,206.0,2
+1147,Gowardhan Pure Ghee Pouch,Cooking Essentials,281.0,6
+1148,Popular Essentials Jeera/Cumin Seeds,Cooking Essentials,38.0,3
+1149,Weikfield Baking Soda,Cooking Essentials,29.0,6
+1150,Everest Pav Bhaji Masala,Cooking Essentials,33.0,4
+1151,Tata Sampann Unpolished Chana Dal,Cooking Essentials,89.0,2
+1152,Amul Mithai Mate EOE Tin,Cooking Essentials,109.0,6
+1153,Pillsbury Chakki Fresh Atta,Cooking Essentials,375.0,6
+1154,Everest Chicken Masala,Cooking Essentials,38.0,1
+1155,Dhara Life Refined Ricebran Oil (Pouch),Cooking Essentials,190.0,6
+1156,Borges Extra Virgin Olive Oil,Cooking Essentials,299.0,1
+1157,Everest Shahi Biryani Masala,Cooking Essentials,60.0,6
+1158,Popular Essentials Californian Almond,Cooking Essentials,251.0,6
+1159,Popular Essentials Ajwain Whole,Cooking Essentials,25.0,4
+1160,Everest Tikhalal Chilli Powder,Cooking Essentials,212.0,6
+1161,Popular Essentials Kabuli Chana Regular,Cooking Essentials,77.0,6
+1162,Popular Essentials Saunf/Fennel Seeds,Cooking Essentials,44.0,6
+1163,Popular Essentials Bansi Sooji,Cooking Essentials,34.0,3
+1164,Happilo Premium International Queen Kalmi Dates,Cooking Essentials,172.0,6
+1165,Tata Sampann Unpolished Urad Whole,Cooking Essentials,94.0,4
+1166,Popular Essentials Cashew Split,Cooking Essentials,283.0,6
+1167,Popular Essentials Chana Dal (Un-Polished),Cooking Essentials,54.0,6
+1168,Tata Sampann Unpolished Rajma (Chitra),Cooking Essentials,125.0,6
+1169,Everest Kitchen King Masala,Cooking Essentials,60.0,2
+1170,24 Mantra Organic Cumin,Cooking Essentials,65.0,2
+1171,Nestle Milkmaid,Cooking Essentials,128.0,6
+1172,Popular Essentials Sona Masouri Steam Rice,Cooking Essentials,59.0,6
+1173,24 Mantra Organic Tur Dal,Cooking Essentials,208.0,6
+1174,Gits Gulab Jamun Instant Dessert Mix,Cooking Essentials,89.0,6
+1175,Popular Essentials Black Masoor Whole (Un-Polished),Cooking Essentials,58.0,3
+1176,24 Mantra Organic Peanuts,Cooking Essentials,125.0,1
+1177,Everest Hingraj Powder,Cooking Essentials,81.0,2
+1178,Everest Black Pepper Powder,Cooking Essentials,115.0,6
+1179,Tata Sampann Masoor Dal Stand,Cooking Essentials,134.0,4
+1180,24 Mantra Organic Besan,Cooking Essentials,88.0,5
+1181,Saffola Gold Refined Cooking Oil (Jar),Cooking Essentials,449.0,6
+1182,Nestle Everyday Dairy Whitener,Cooking Essentials,210.0,4
+1183,24 Mantra Organic Red Poha,Cooking Essentials,69.0,1
+1184,Everest Powder - Tea Masala,Cooking Essentials,89.0,5
+1185,Tata Sampann Urad Dal Split,Cooking Essentials,90.0,6
+1186,Popular Essentials Idli Sooji,Cooking Essentials,28.0,6
+1187,Popular Essentials Dessicated Coconut,Cooking Essentials,86.0,6
+1188,Sunfeast Yippee! Mood Masala Noodles,Cooking Essentials,43.0,3
+1189,Chef's Basket Durum Wheat Elbow Pasta,Cooking Essentials,80.0,6
+1190,MTR Breakfast Khatta Meetha Poha Mix,Cooking Essentials,20.0,6
+1191,Satyam Khobra,Cooking Essentials,101.0,5
+1192,Betty Crocker Complete Pancake Mix Original,Cooking Essentials,105.0,6
+1193,Borges Durum Wheat Fusilli Pasta,Cooking Essentials,250.0,3
+1194,24 Mantra Organic Green Moong Dal - Split,Cooking Essentials,135.0,2
+1195,Weikfield Vanilla Flavoured Custard Powder,Cooking Essentials,37.0,6
+1196,Tata Sampann Moong Dal Split,Cooking Essentials,178.0,5
+1197,Tata Sampann Kala Chana,Cooking Essentials,64.0,5
+1198,Saffola Soya Chunks Mealmaker,Cooking Essentials,50.0,2
+1199,24 Mantra Bura Sugar (Demerara),Cooking Essentials,72.0,6
+1200,Popular Essentials Green Cardamom (Elaichi),Cooking Essentials,198.0,6
+1201,Hershey's Syrup Delicious Strawberry,Cooking Essentials,95.0,1
+1202,Popular Essentials Anjeer,Cooking Essentials,169.0,4
+1203,Popular Essentials Mustard Seeds Rai Small,Cooking Essentials,20.0,2
+1204,Weikfield Baking Powder,Cooking Essentials,32.0,6
+1205,Dabur Honey Squeezy,Cooking Essentials,167.0,6
+1206,Tata Sampann High Protein Kali Urad,Cooking Essentials,78.0,6
+1207,Chef's Basket Durum Wheat Fusilli Pasta,Cooking Essentials,80.0,6
+1208,TilSona Til Oil,Cooking Essentials,162.0,2
+1209,Top Ramen Chicken Noodles,Cooking Essentials,54.0,1
+1210,Everest Chaat Masala,Cooking Essentials,34.0,1
+1211,Keya Wonder Red Hot Chilli Flakes,Cooking Essentials,80.0,2
+1212,Popular Essentials White Peas (Un-Polished),Cooking Essentials,72.0,5
+1213,Ching’s Secret Chowmein Hakka Noodles Masala,Cooking Essentials,44.0,2
+1214,Dhara Filtered Groundnut Oil (Jar),Cooking Essentials,1035.0,6
+1215,Pillsbury Choco Chip Pancake Mix,Cooking Essentials,94.0,6
+1216,Hershey's Caramel Syrup,Cooking Essentials,230.0,1
+1217,Pillsbury Multi Grain Atta,Cooking Essentials,56.0,3
+1218,McCain New Mini Samosa with Cheese Corn Style Filling,Cooking Essentials,118.0,2
+1219,Satyam Puffed Rice Kurmura (A),Cooking Essentials,43.0,6
+1220,MTR 3 Min Poha,Cooking Essentials,25.0,6
+1221,Ching's Manchurian Instant Noodles,Cooking Essentials,15.0,5
+1222,Hershey's Chocolate Flavour Syrup,Cooking Essentials,205.0,6
+1223,Popular Essentials Dhania (Coriander Seeds),Cooking Essentials,46.0,4
+1224,24 Mantra Red Chilly Whole,Cooking Essentials,65.0,1
+1225,Dabur Honey - World's No.1,Cooking Essentials,120.0,6
+1226,24 Mantra Organic Puffed Rice,Cooking Essentials,39.0,6
+1227,24 Mantra Organic Wheat Daliya,Cooking Essentials,47.0,2
+1228,24 Mantra Organic Ragi Flour,Cooking Essentials,52.0,4
+1229,Popular Essentials Cinnamon Whole (Dalchini),Cooking Essentials,33.0,6
+1230,Sundrop Super Lite Advanced - Sunflower Oil,Cooking Essentials,215.0,4
+1231,Pillsbury Atta/Godihittu - Chakki Fresh,Cooking Essentials,94.0,4
+1232,Popular Essentials Green Moong Chilka/Chilka (Un-Polished),Cooking Essentials,79.0,5
+1233,Popular Essentials HMT Kolam Steam,Cooking Essentials,75.0,3
+1234,Popular Essentials Black Urad Split,Cooking Essentials,72.0,4
+1235,Keya Oregano,Cooking Essentials,98.0,5
+1236,Popular Essentials Pink Rajma,Cooking Essentials,90.0,6
+1237,Everest Shahi Paneer Masala,Cooking Essentials,40.0,5
+1238,Godrej Yummiez Chicken Nuggets,Cooking Essentials,293.0,1
+1239,Flying Bird Vanilla Essence,Cooking Essentials,34.0,6
+1240,Everest Sabji Masala,Cooking Essentials,29.0,6
+1241,Cornitos Cornitos Taco Shells - 4 Inches,Cooking Essentials,88.0,6
+1242,Everest Rajma Masala,Cooking Essentials,32.0,5
+1243,Popular Essentials White Til,Cooking Essentials,38.0,1
+1244,Amul Dark Compound Chocolate Slab,Cooking Essentials,122.0,6
+1245,Mothers Recipe Papad Chana Masala,Cooking Essentials,71.0,6
+1246,Ching's Schezwan Masala Instant Noodles,Cooking Essentials,60.0,1
+1247,Amul Milk Compound Chocolate Slab,Cooking Essentials,107.0,6
+1248,Eastern Chicken Masala,Cooking Essentials,65.0,3
+1249,Popular Essentials Methi Seeds,Cooking Essentials,25.0,5
+1250,Saffola Yummy Masala Noodles,Cooking Essentials,20.0,2
+1251,Cadbury Hot Chocolate,Cooking Essentials,166.0,6
+1252,Ching's Chicken Chilli Masala,Cooking Essentials,10.0,6
+1253,Dabur Keora water - Authentic flavour for Biryani's and Desserts,Cooking Essentials,58.0,6
+1254,Popular Essentials Black Cardamom/Elaichi,Cooking Essentials,90.0,6
+1255,Popular Essentials Idli Rice,Cooking Essentials,54.0,4
+1256,Everest Chole Masala,Cooking Essentials,32.0,1
+1257,Dabur Hommade Tamarind Paste,Cooking Essentials,45.0,6
+1258,"""Maggi Magic Cubes, Vegetarian Masala (Free 2 Cubes Inside)""",Cooking Essentials,34.0,6
+1259,Popular Essentials Cooking Soda,Cooking Essentials,27.0,6
+1260,RRO Primio Refined Groundnut Oil Pet Bottle,Cooking Essentials,239.0,2
+1261,Everest Pani Puri Masala,Cooking Essentials,30.0,6
+1262,Nissin Cup Noodles Tangy Tomato,Cooking Essentials,45.0,2
+1263,Ching's Veg Manchurian Masala,Cooking Essentials,10.0,2
+1264,Ceres Foods Fish Mustard Instant Liquid Masala,Cooking Essentials,110.0,6
+1265,24 Mantra Organic Jowar Flour,Cooking Essentials,65.0,6
+1266,Maggi Coconut Milkpowder,Cooking Essentials,100.0,6
+1267,On1y Pepper Grinder,Cooking Essentials,144.0,1
+1268,Popular Essentials Rice Flour,Cooking Essentials,60.0,3
+1269,Sunfeast Yippee! Pasta Treat - Sour Cream Onion,Cooking Essentials,25.0,1
+1270,24 Mantra Organic Brown Sona Masoori Rice,Cooking Essentials,95.0,6
+1271,Happilo Premium Afghani Anjeer,Cooking Essentials,256.0,2
+1272,Popular Essentials Chiroti Sooji,Cooking Essentials,34.0,6
+1273,RRO Til Dil Premium Til Oil Bottle,Cooking Essentials,294.0,5
+1274,Popular Essentials Red Rajma,Cooking Essentials,81.0,6
+1275,Cornitos Peanut - Premium Salted,Cooking Essentials,108.0,6
+1276,Popular Essentials Black Pepper,Cooking Essentials,90.0,5
+1277,24 Mantra Organic Tur Dal - Split,Cooking Essentials,120.0,6
+1278,Sugarfree Gold Low Calorie Sweetner,Cooking Essentials,61.0,3
+1279,Ching's Secret Paneer Chilli Masala,Cooking Essentials,10.0,2
+1280,Dabur Honey,Cooking Essentials,204.0,3
+1281,Everest Tea Masala,Cooking Essentials,50.0,2
+1282,Ching's Paneer Chilli Masala,Cooking Essentials,44.0,4
+1283,Sunfeast YiPPee! Magic Masala Noodles,Cooking Essentials,63.0,3
+1284,Everest Meat Masala Powder,Cooking Essentials,67.0,3
+1285,Pillsbury Atta With Multigrains Wheat Grains,Cooking Essentials,245.0,6
+1286,Mother's Recipe Tamarind Paste,Cooking Essentials,49.0,6
+1287,Quaker Oats Breakfast Cereals - With Flavour Mix Nutritious Rich Source Of Energy,Cooking Essentials,45.0,6
+1288,Popular Essentials Cloves (Lavang),Cooking Essentials,62.0,6
+1289,Sunfeast Yippee! Power Up Atta Noodles,Cooking Essentials,81.0,6
+1290,Suhana Paneer Tikka Masala Mix,Cooking Essentials,38.0,6
+1291,24 Mantra Turmeric Powder,Cooking Essentials,34.0,6
+1292,24 Mantra Super Grain Quinoa,Cooking Essentials,190.0,4
+1293,Everest Powder - Egg Curry Masala,Cooking Essentials,39.0,6
+1294,Popular Essentials Pe Shah Jeera,Cooking Essentials,51.0,6
+1295,24 Mantra Organic Sattu Atta,Cooking Essentials,95.0,6
+1296,Smith & Jones Pasta Masala,Cooking Essentials,46.0,6
+1297,Weikfield Vanilla Custard Powder,Cooking Essentials,128.0,3
+1298,Sugarfree Natura Low Calorie Sweetner,Cooking Essentials,270.0,3
+1299,Pillsbury Vanilla Custard Powder,Cooking Essentials,36.0,6
+1300,24 Mantra Organic Rajma,Cooking Essentials,145.0,6
+1301,Popular Essentials Broken Wheat/Daliya,Cooking Essentials,34.0,6
+1302,Zorabian Chicken Smoked Ham,Cooking Essentials,194.0,1
+1303,Smith & Jones Peri Peri Masala,Cooking Essentials,99.0,6
+1304,Popular Essentials Urad Dal Split (Un-Polished),Cooking Essentials,77.0,5
+1305,Popular Essentials Bajra Whole,Cooking Essentials,56.0,6
+1306,Weikfield Veg Jelly Crystals - Strawberry,Cooking Essentials,44.0,6
+1307,Weikfield Veg Jelly Crystals - Raspberry,Cooking Essentials,44.0,6
+1308,Popular Essentials Masoor Dal Split (Un-Polished),Cooking Essentials,63.0,4
+1309,Popular Essentials Pista Salted (With Shell),Cooking Essentials,371.0,5
+1310,The Bake Shop Bread Crumbs,Cooking Essentials,47.0,3
+1311,Popular Essentials Horse Gram,Cooking Essentials,36.0,4
+1312,Hershey's Chocolate Syrup,Cooking Essentials,95.0,4
+1313,Godrej Yummiez Chilli Chicken Sausages,Cooking Essentials,144.0,3
+1314,Everest Kasuri Methi,Cooking Essentials,25.0,6
+1315,Satyam Makhana,Cooking Essentials,208.0,6
+1316,Everest Tandoori Chicken Masala,Cooking Essentials,38.0,5
+1317,Weikfield Falooda Mix - Kesar Pista,Cooking Essentials,48.0,3
+1318,Weikfield Cocoa Powder,Cooking Essentials,65.0,6
+1319,Pantai Coconut Cream,Cooking Essentials,143.0,4
+1320,Popular Essentials Coriander Seeds,Cooking Essentials,15.0,5
+1321,Ching's Singapore Curry Instant Noodles,Cooking Essentials,60.0,4
+1322,Eastern Fish Masala,Cooking Essentials,47.0,5
+1323,"Oleev Smart Oil Fortified with VIT A, D, E & K (Pouch)",Cooking Essentials,194.0,4
+1324,Everest Dry Ginger Powder,Cooking Essentials,68.0,4
+1325,Pillsbury Cooker Cake Mix - Choco,Cooking Essentials,89.0,6
+1326,Hersheys Chocolate Almond Syrup,Cooking Essentials,200.0,2
+1327,Satyam Nighties Spices  Chilli Pandi,Cooking Essentials,52.0,5
+1328,Popular Essentials Popular Essential Pista Salted (With Shell),Cooking Essentials,171.0,6
+1329,Godrej Yummiez Chicken Punjabi Tikka,Cooking Essentials,266.0,6
+1330,Popular Essentials Rozana Sona Masuri Raw Rice,Cooking Essentials,312.0,5
+1331,24 Mantra Mustard Oil (Cold Pressed),Cooking Essentials,312.0,6
+1332,24 Mantra Organic Black Pepper,Cooking Essentials,157.0,6
+1333,Popular Essentials Green Moong Whole,Cooking Essentials,75.0,3
+1334,24 Mantra Organic Masoor Dal - Split,Cooking Essentials,88.0,6
+1335,Praakritik Organic Natural Rock Salt,Cooking Essentials,56.0,3
+1336,24 Mantra Sunflower Oil (Cold Pressed) Pet Bottle,Cooking Essentials,347.0,5
+1337,"Ching's Secret Instant Noodles, Hot Garlic",Cooking Essentials,60.0,4
+1338,Saffola Everyday Peppy Tomato Masala Oats,Cooking Essentials,171.0,6
+1339,Dabur 100% Pure Honey - Worlds No.1,Cooking Essentials,387.0,6
+1340,Popular Essentials Star Anise,Cooking Essentials,63.0,5
+1341,Ching's Secret Chicken 65 Masala - Chicken,Cooking Essentials,10.0,5
+1342,Cadbury Cocoa Powder,Cooking Essentials,211.0,6
+1343,Praakritik Natural Desi Gir Cow A2 Ghee,Cooking Essentials,1305.0,6
+1344,Praakritik Organic Poha,Cooking Essentials,112.0,5
+1345,Praakritik Organic Natural Wild Forest Honey,Cooking Essentials,150.0,4
+1346,Popular Essentials Dry Dates (Kharak),Cooking Essentials,118.0,6
+1347,Popular Essentials Kashmiri Red Rajma,Cooking Essentials,89.0,4
+1348,Dabur Hommade - Garlic Paste,Cooking Essentials,47.0,6
+1349,Dabur 100% Pure Honey,Cooking Essentials,297.0,1
+1350,Ching's Schezwan Fried Rice(Miracle Masala),Cooking Essentials,44.0,5
+1351,"""Maggi Magic Cubes, Vegetarian Masala""",Cooking Essentials,34.0,1
+1352,Popular Essentials Red Poha,Cooking Essentials,43.0,6
+1353,Pillsbury Oven Cake Mix - Rich Chocolate,Cooking Essentials,147.0,5
+1354,Eastern Super Garam Masala,Cooking Essentials,69.0,2
+1355,Maggi Magic Cubes Extra Chicken,Cooking Essentials,39.0,6
+1356,Satyam Nighties Spices  Chilli Kashmiri,Cooking Essentials,95.0,6
+1357,Eastern Cumin Powder,Cooking Essentials,48.0,6
+1358,Popular Essentials Urad Gola White(Un-Polished),Cooking Essentials,81.0,6
+1359,24 Mantra Organic Chana Dal,Cooking Essentials,89.0,5
+1360,Delight Nuts Cashew Roasted & Salted,Cooking Essentials,340.0,6
+1361,Popular Essentials Mace/Javitri,Cooking Essentials,81.0,3
+1362,Dlicia Whip Topping Bottle,Cooking Essentials,171.0,5
+1363,Mother's Recipe Paste Ginger & Garlic,Cooking Essentials,68.0,4
+1364,24 Mantra Groundnut Oil (Cold Pressed) Pet Bottle,Cooking Essentials,369.0,6
+1365,Satyam Pulses Masur Dal,Cooking Essentials,81.0,6
+1366,Delight Nuts Pista Roasted & Salted,Cooking Essentials,340.0,6
+1367,"Top Ramen Noodles, Atta",Cooking Essentials,80.0,1
+1368,Hershey's Cocoa Powder,Cooking Essentials,95.0,5
+1369,Praakritik Organic Singhara Atta,Cooking Essentials,225.0,4
+1370,Gits Veg Biryani Ready to Eat,Cooking Essentials,99.0,6
+1371,Delight Nuts Cranberries Sliced,Cooking Essentials,239.0,6
+1372,Borges Durum Wheat Pasta Superior Quality,Cooking Essentials,149.0,6
+1373,Ceres Foods Laal Maas Instant Liquid Masala,Cooking Essentials,110.0,5
+1374,Popular Essentials Sattu Atta,Cooking Essentials,79.0,3
+1375,Popular Essentials Mustard Seeds Rai Yellow,Cooking Essentials,25.0,5
+1376,Praakritik Organic Extra Virgin Coconut Oil,Cooking Essentials,134.0,5
+1377,Praakritik Organic Garlic Powder,Cooking Essentials,108.0,5
+1378,Aashirvaad Breakfast Instant Mix - Rice Idli,Cooking Essentials,52.0,6
+1379,Kitchens Of India Mutter Paneer,Cooking Essentials,124.0,6
+1380,Ching's Secret Veg Manchurian Masala,Cooking Essentials,44.0,6
+1381,Popular Essentials Jowa Flour,Cooking Essentials,49.0,5
+1382,Popular Essentials Black Til,Cooking Essentials,47.0,4
+1383,Popular Essentials Pancharatna Dal,Cooking Essentials,72.0,6
+1384,Saffola 100% Pure Honey,Cooking Essentials,437.0,2
+1385,Popular Essentials Tamarind,Cooking Essentials,128.0,6
+1386,Gits Rice Dosa Instant Breakfast Mix,Cooking Essentials,57.0,5
+1387,Popular Essentials Poppy Seeds (Gasagase),Cooking Essentials,260.0,6
+1388,Hershey's Hot Chocolate Powder,Cooking Essentials,210.0,4
+1389,Borges Farfalle Durum Wheat Pasta,Cooking Essentials,250.0,5
+1390,Satyam Chilli  Bedgi,Cooking Essentials,73.0,5
+1391,Aashirvaad Instant Mix - Rice Dosa,Cooking Essentials,52.0,6
+1392,Hershey's Cocoa - Natural Unsweetened,Cooking Essentials,243.0,4
+1393,Weikfield Veg Jelly Crystals - Mango,Cooking Essentials,44.0,6
+1394,Praakritik Orrganic Cold Pressed Sesame Oil,Cooking Essentials,117.0,5
+1395,Amulya Dairy Whitener,Cooking Essentials,372.0,4
+1396,ITC Master Chef Hyderabadi Biryani,Cooking Essentials,52.0,5
+1397,Flying Bird Butter Scotch Essence,Cooking Essentials,49.0,6
+1398,Dabur Hommade - Ginger Paste,Cooking Essentials,47.0,6
+1399,Popular Essentials Green Peas (Un-Polished),Cooking Essentials,108.0,5
+1400,Quaker Oats Pouch,Cooking Essentials,248.0,6
+1401,24 Mantra Organic Urad White Whole,Cooking Essentials,122.0,4
+1402,Popular Essentials Guntur Chilli Stemless,Cooking Essentials,39.0,2
+1403,Popular Essentials Moth Whole,Cooking Essentials,81.0,6
+1404,Keya Pizza Seasoning,Cooking Essentials,90.0,6
+1405,Keya Piri Piri | Exotic Spices Mix,Cooking Essentials,87.0,6
+1406,24 Mantra Organic Moong Dal,Cooking Essentials,125.0,6
+1407,Betty Crocker French Vanilla Cake Mix,Cooking Essentials,276.0,6
+1408,Delight Nuts Dried Cranberries,Cooking Essentials,272.0,6
+1409,Everest Kesari Milk Masala,Cooking Essentials,205.0,2
+1410,Tong Garden Salted Cocktail Nuts,Cooking Essentials,266.0,5
+1411,MTR Uttapam Mix,Cooking Essentials,156.0,6
+1412,Gits Khaman Dhokla Instant Snack Mix,Cooking Essentials,61.0,6
+1413,Happilo Premium 100% Natural Whole Cashews,Cooking Essentials,235.0,6
+1414,Everest Dry Mango Powder,Cooking Essentials,80.0,5
+1415,Dabur Hommade - Ginger Garlic Past Tub,Cooking Essentials,104.0,6
+1416,Gits Medu Vada Instant Snack Mix,Cooking Essentials,86.0,6
+1417,Weikfield Drinking Chocolate Powder,Cooking Essentials,58.0,6
+1418,Popular Essentials Regular White Lobia,Cooking Essentials,63.0,6
+1419,Puro Healthy Salt Crystal,Cooking Essentials,125.0,6
+1420,Popular Essentials Premium Jeera Rice,Cooking Essentials,140.0,5
+1421,Smith & Jones Shahi Paneer Masala Mix,Cooking Essentials,44.0,6
+1422,Betty Crocker Mug Treats - Chocolate Mix - Pack of 4,Cooking Essentials,178.0,6
+1423,Catch Black Pepper Sprinkler,Cooking Essentials,100.0,1
+1424,Weikfield Cooker Cake Mix - Chocolate,Cooking Essentials,89.0,6
+1425,ITC Master Chef Butter Chicken,Cooking Essentials,52.0,6
+1426,Masala Oats Masala & Coriander,Cooking Essentials,176.0,5
+1427,Smith & Jones Mutter Paneer Masala,Cooking Essentials,42.0,6
+1428,Kitchens of India Dal Bukhara Gravy Mix,Cooking Essentials,77.0,6
+1429,Popular Essentials Fried Gram (Bengal Gram),Cooking Essentials,63.0,6
+1430,Gits Jalebi with Maker Dessert Mix,Cooking Essentials,63.0,6
+1431,Popular Essentials Soya Beans,Cooking Essentials,75.0,6
+1432,24 Mantra Organic Roasted Bengal Gram Dal,Cooking Essentials,97.0,6
+1433,Keya Italian Seasoning,Cooking Essentials,98.0,6
+1434,MTR Idli/Dosa/Chilly Chutney Powder,Cooking Essentials,115.0,3
+1435,Delight Nuts Trail Mix,Cooking Essentials,299.0,6
+1436,Praakritik Organic Chilka Moong Dal,Cooking Essentials,108.0,6
+1437,Smith & Jones Garlic & Herbs Masala Mix,Cooking Essentials,99.0,6
+1438,Eastern Tamarind,Cooking Essentials,63.0,6
+1439,Tong Garden Wasabi Coated Greenpeas Tin,Cooking Essentials,178.0,6
+1440,Flying Bird Pineapple Artifical Food Essence,Cooking Essentials,49.0,6
+1441,Japanese Choice Udon Noodles,Cooking Essentials,266.0,6
+1442,Pantai Coconut Milk,Cooking Essentials,150.0,4
+1443,Praakritik Organic Masoor Dal,Cooking Essentials,116.0,6
+1444,Popular Essentials Classic Sona Masuri Rice,Cooking Essentials,387.0,6
+1445,Popular Essentials Salted Murmure,Cooking Essentials,57.0,6
+1446,Oleev Active Oil (Pouch),Cooking Essentials,239.0,6
+1447,Delight Nuts Dried Blueberries,Cooking Essentials,432.0,6
+1448,Popular Essentials Double Beans White,Cooking Essentials,54.0,6
+1449,Delight Nuts Almond Natural,Cooking Essentials,279.0,6
+1450,Praakritik Organic Jaggery,Cooking Essentials,150.0,6
+1451,Praakritik Organic Raw Sugar,Cooking Essentials,84.0,6
+1452,MTR Masala - Sambar Powder,Cooking Essentials,115.0,4
+1453,ITC Master Chef Vegetable Biryani Cooking Paste,Cooking Essentials,52.0,5
+1454,Jivana Jaggery,Cooking Essentials,100.0,2
+1455,Praakritik Organic Besan,Cooking Essentials,159.0,6
+1456,MTR Instant Gulab Jamun Mix,Cooking Essentials,176.0,6
+1457,On1y Mixed Herbs,Cooking Essentials,99.0,6
+1458,Popular Essentials Urad Gola Black (Un-Polished),Cooking Essentials,72.0,6
+1459,Gits Dessert Mix China Grass Bombay Halwa,Cooking Essentials,55.0,4
+1460,Praakritik Organic Basmati Rice,Cooking Essentials,170.0,5
+1461,Ceres Foods Nalli Nihari Instant Liquid Masala,Cooking Essentials,110.0,6
+1462,Borges Canola Oil Pet Bottle,Cooking Essentials,399.0,6
+1463,Suhana Biryani Masala,Cooking Essentials,66.0,6
+1464,On1y Black Salt Grinder,Cooking Essentials,99.0,6
+1465,Popular Essentials Nylon Til,Cooking Essentials,39.0,6
+1466,Pillsbury Rich Choco Oven Cake Mix - Egg Free,Cooking Essentials,159.0,6
+1467,Weikfield Tomato Salsa Instant Pasta,Cooking Essentials,25.0,1
+1468,Praakritik Organic Jowar Atta,Cooking Essentials,103.0,6
+1469,Epicurea Thai Jasmine Rice,Cooking Essentials,295.0,4
+1470,Yummiez Chicken Garlic Fingers Pouch,Cooking Essentials,250.0,5
+1471,RRO Primio Refined Groundnut (Jar),Cooking Essentials,436.0,6
+1472,Praakritik Organic Tuvar Dal,Cooking Essentials,140.0,6
+1473,Cantina Beans Mexican Beans,Cooking Essentials,213.0,6
+1474,Pillsbury Oven Cake Mix - Vanilla,Cooking Essentials,156.0,6
+1475,Hershey's Chocolate Milk Booster,Cooking Essentials,200.0,6
+1476,Popular Essentials Byadagi Chilli Stemless,Cooking Essentials,80.0,6
+1477,Suhana Spice Mix - Chicken Biryani,Cooking Essentials,66.0,6
+1478,Praakritik Organic Yellow Moon Dal,Cooking Essentials,135.0,6
+1479,24 Mantra Sona Masuri Brown Rice,Cooking Essentials,423.0,6
+1480,24 Mantra Organic Pancharatna Dal - Split,Cooking Essentials,120.0,6
+1481,24 Mantra Organic Cumin Powder,Cooking Essentials,70.0,6
+1482,Popular Essentials Samba Broken Wheat,Cooking Essentials,89.0,6
+1483,Betty Crocker Chocolate Fudge Cake Mix,Cooking Essentials,295.0,6
+1484,Borges Extra Light Olive Oil Bottle,Cooking Essentials,1399.0,6
+1485,Flying Bird Premium Orange Artificial Food Essence,Cooking Essentials,60.0,6
+1486,Popular Essentials Red Cherry/Gundu Chilli,Cooking Essentials,95.0,6
+1487,Super Saver Kolam Rice Sortex Clean,Cooking Essentials,630.0,3
+1488,Flying Bird Food Essence - Kewra,Cooking Essentials,50.0,6
+1489,MTR Vada Breakfast,Cooking Essentials,200.0,1
+1490,On1y Pasta Seasoning,Cooking Essentials,99.0,6
+1491,Praakritik Organic Indrayani Rice,Cooking Essentials,70.0,6
+1492,On1y Pizza Seasoning,Cooking Essentials,99.0,6
+1493,Kitchens of India Mutter Paneer Mix,Cooking Essentials,84.0,4
+1494,Aashirvaad Svasti Cow Ghee Tetra Pack,Cooking Essentials,295.0,6
+1495,Weikfield Cooker Cake Mix - Vanilla,Cooking Essentials,95.0,6
+1496,Praakritik Organic Kapli Wheat Atta,Cooking Essentials,147.0,6
+1497,Epicurea Sushi Rice,Cooking Essentials,295.0,6
+1498,Sugarfree Natural Green Stevia Leaves Zero Calorie,Cooking Essentials,75.0,2
+1499,Smith & Jones Italian Spices Masala Mix,Cooking Essentials,99.0,6
+1500,Satyam Nighties Spices  Chilli Bore,Cooking Essentials,80.0,6
+1501,Weikfield Veg Jelly Crystals - Orange,Cooking Essentials,44.0,6
+1502,Praakritik Organic Jumbo Rolled Oats,Cooking Essentials,169.0,6
+1503,On1y Sea Salt Grinder,Cooking Essentials,89.0,6
+1504,Delight Nuts Berries Mix,Cooking Essentials,319.0,6
+1505,Praakritik Organic Ginger Powder,Cooking Essentials,125.0,6
+1506,Suhana Mutton Gravy Mix,Cooking Essentials,45.0,4
+1507,On1y Salad Seasoning Grinder,Cooking Essentials,139.0,6
+1508,Figaro Pure Olive Oil,Cooking Essentials,299.0,1
+1509,Madhur Sugar,Cooking Essentials,56.0,0
+1510,Madhur Pure And Hygienic Sugar,Cooking Essentials,266.0,0
+1511,Satyam Poha Jada,Cooking Essentials,32.0,0
+1512,Aashirvaad Superior MP Whole Wheat Atta,Cooking Essentials,52.0,0
+1513,Maggi Masala Ae Magic,Cooking Essentials,54.0,0
+1514,Aashirvaad Iodised Salt,Cooking Essentials,19.0,0
+1515,Maggi 2-Minute Instant Noodles - Masala,Cooking Essentials,44.0,0
+1516,Popular Essentials Phool Makhana (Jumbo Size),Cooking Essentials,128.0,0
+1517,Aashirvaad Atta With Mutigrains,Cooking Essentials,287.0,0
+1518,Tata Sampann Poha,Cooking Essentials,41.0,0
+1519,Fortune Besan Flour,Cooking Essentials,120.0,0
+1520,Everest Tikhalal Hot & Red Chilly Powder,Cooking Essentials,46.0,0
+1521,Popular Essentials Chia Seeds,Cooking Essentials,49.0,0
+1522,Tata Sampann Unpolished Toor Dal/Arhar Dal,Cooking Essentials,177.0,0
+1523,Everest Coriander Powder,Cooking Essentials,31.0,0
+1524,Satyam Thin Poha Patla,Cooking Essentials,35.0,0
+1525,Popular Essentials Sona Masouri Raw Rice,Cooking Essentials,75.0,0
+1526,Tata Sampann High Protien Chana Dal - Split,Cooking Essentials,64.0,0
+1527,Satyam Singdana,Cooking Essentials,111.0,0
+1528,Tata Sampann Moong Chilka,Cooking Essentials,82.0,0
+1529,Tata Sampann High Protien Toor Dal - Split,Cooking Essentials,89.0,0
+1530,Ching's Chow Mein Hakka Noodles Masala,Cooking Essentials,10.0,0
+1531,Everest Chat Masala,Cooking Essentials,59.0,0
+1532,Popular Essentials Black Brown Chana (Un-Polished),Cooking Essentials,50.0,0
+1533,Ching's Secret Veg Hakka Noodles,Cooking Essentials,107.0,0
+1534,Saffola Oats 100 % Natural,Cooking Essentials,15.0,0
+1535,Everest Kashmiri Lal Chilli Powder,Cooking Essentials,279.0,0
+1536,Popular Essentials Black Raisins Seedless,Cooking Essentials,54.0,0
+1537,Daawat Rozana Super Basmati Rice,Cooking Essentials,79.0,0
+1538,Everest Cumin Powder (Jeera),Cooking Essentials,29.0,0
+1539,Everest Sambhar Masala,Cooking Essentials,33.0,0
+1540,Maggi Chilly Chow Cuppa Noodles,Cooking Essentials,50.0,0
+1541,Popular Essentials Mustard Seeds Rai Big,Cooking Essentials,20.0,0
+1542,Patanjali Cow's Ghee,Cooking Essentials,565.0,0
+1543,Everest Amchur Powder,Cooking Essentials,41.0,0
+1544,Daawat Super Basmati Rice,Cooking Essentials,169.0,0
+1545,Popular Essentials Sabudana,Cooking Essentials,54.0,0
+1546,Popular Essentials Brown Sugar,Cooking Essentials,40.0,0
+1547,Sunfeast Yippee! Magic Masala Noodles,Cooking Essentials,45.0,0
+1548,Tata Tea Gold,Cooking Essentials,35.0,0
+1549,Daawat Rozana Gold Basmati Rice,Cooking Essentials,89.0,0
+1550,Top Ramen Masala,Cooking Essentials,82.0,0
+1551,Everest Turmeric Powder,Cooking Essentials,60.0,0
+1552,Popular Essentials Buckwheat Flour (Kuttu Atta),Cooking Essentials,113.0,0
+1553,Keya Italian Pizza Oregano,Cooking Essentials,97.0,0
+1554,Chef's Basket Durum Wheat Penne Pasta,Cooking Essentials,80.0,0
+1555,India Gate Basmati Rice,Cooking Essentials,210.0,0
+1556,24 Mantra Organic Whole Wheat Atta,Cooking Essentials,59.0,0
+1557,Zorabian Chicken Kheema Parathas,Cooking Essentials,190.0,0
+1558,Sunfeast Pasta Treat Pack of Tomato Cheese,Cooking Essentials,23.0,0
+1559,Sugarlite 50% Less Calories Sugar Pouch,Cooking Essentials,59.0,0
+1560,Popular Essentials Sabja/Basil Seeds,Cooking Essentials,51.0,0
+1561,Patanjali Pure Honey,Cooking Essentials,95.0,0
+1562,Weikfield Falooda Mix - Mango,Cooking Essentials,48.0,0
+1563,Pro Nature Organic Sonamasoori Brown Rice,Cooking Essentials,94.0,0
+1564,Maggi Special Masala Spicy Yummy Noodles,Cooking Essentials,72.0,0
+1565,Godrej Yummiez Chicken Breakfast Salami,Cooking Essentials,143.0,0
+1566,Everest Saffron Kesar,Cooking Essentials,120.0,0
+1567,Mother Dairy Toned Milk Pouch,"Dairy, Bread & Batter",25.0,4
+1568,Mother Dairy Classic Curd,"Dairy, Bread & Batter",29.0,6
+1569,Mother Dairy Ultra Full Cream Milk,"Dairy, Bread & Batter",31.0,4
+1570,Amul Butter - Pasteurised,"Dairy, Bread & Batter",49.0,6
+1571,Britannia Sandwich White Bread,"Dairy, Bread & Batter",33.0,4
+1572,iD Curd Pouch,"Dairy, Bread & Batter",34.0,6
+1573,Britannia 100% Whole Wheat Bread,"Dairy, Bread & Batter",45.0,4
+1574,Britannia Healthy Slice Sandwich Bread,"Dairy, Bread & Batter",40.0,4
+1575,Gowardhan Classic Block Fresh Paneer,"Dairy, Bread & Batter",81.0,6
+1576,Amul Processed Cheese Cubes,"Dairy, Bread & Batter",101.0,6
+1577,Britannia Pav,"Dairy, Bread & Batter",22.0,4
+1578,Nestle A+ Nourish Dahi,"Dairy, Bread & Batter",34.0,6
+1579,Britannia Burger Bun with Sesame Seed,"Dairy, Bread & Batter",15.0,4
+1580,Amul Frozen Malai Paneer,"Dairy, Bread & Batter",73.0,6
+1581,iD Natural Paneer,"Dairy, Bread & Batter",99.0,6
+1582,Britannia Fruit Bun,"Dairy, Bread & Batter",17.0,3
+1583,Amul Cheese - Processed Slices,"Dairy, Bread & Batter",120.0,6
+1584,iD Curd Cup,"Dairy, Bread & Batter",60.0,6
+1585,The Bake Shop Premium White Sandwich Bread,"Dairy, Bread & Batter",30.0,1
+1586,Britannia Multigrain Bread,"Dairy, Bread & Batter",55.0,4
+1587,Amul Processed Cheese Block,"Dairy, Bread & Batter",106.0,6
+1588,Epigamia Misti Doi,"Dairy, Bread & Batter",30.0,6
+1589,Amul Cheese - Block,"Dairy, Bread & Batter",240.0,6
+1590,Amul Butter - Pasteurised (School Pack),"Dairy, Bread & Batter",57.0,6
+1591,Britannia Brown Bread,"Dairy, Bread & Batter",42.0,4
+1592,Epigamia Natural Greek Yogurt,"Dairy, Bread & Batter",45.0,6
+1593,The Bake Shop Pizza Base,"Dairy, Bread & Batter",30.0,1
+1594,Amul Delicious Fat Spread - Cholesterol Free,"Dairy, Bread & Batter",17.0,6
+1595,Nestle A+ Actiplus Probiotic Dahi Plain Curd,"Dairy, Bread & Batter",75.0,5
+1596,Bio Nutrients Pure Diet Tofu Gold,"Dairy, Bread & Batter",57.0,5
+1597,Amul Cheese - Pepper,"Dairy, Bread & Batter",82.0,6
+1598,Amul Cheese Spread Creamy,"Dairy, Bread & Batter",80.0,6
+1599,The Bake Shop Foot Long,"Dairy, Bread & Batter",40.0,1
+1600,Amul Cheese Slices,"Dairy, Bread & Batter",359.0,1
+1601,Suguna Sharp Egg,"Dairy, Bread & Batter",62.0,3
+1602,Amul Cheese Sauce Mexican Salsa,"Dairy, Bread & Batter",72.0,1
+1603,Amul Pizza Cheese Processed,"Dairy, Bread & Batter",104.0,6
+1604,Amul Lite Spread,"Dairy, Bread & Batter",39.0,5
+1605,Go Cheese Slice - Plain,"Dairy, Bread & Batter",133.0,6
+1606,RRO Sour Cream,"Dairy, Bread & Batter",137.0,4
+1607,D'lecta Natural Feta Cheese Block,"Dairy, Bread & Batter",95.0,4
+1608,Suguna Active - DHA,"Dairy, Bread & Batter",62.0,4
+1609,Go Cheese Processed Angles Plain,"Dairy, Bread & Batter",95.0,6
+1610,Epigamia Greek Yogurt - Natural,"Dairy, Bread & Batter",200.0,1
+1611,Amul Unsalted Cooking Butter,"Dairy, Bread & Batter",238.0,6
+1612,The Whole Truth Dark Chocolate Peanut Butter - Creamy,"Dairy, Bread & Batter",174.0,6
+1613,The Laughing Cow Cheese Slices,"Dairy, Bread & Batter",155.0,2
+1614,Epigamia Almond Milk Unsweetened Dairy Free,"Dairy, Bread & Batter",199.0,4
+1615,Go Cheese  Spread Plain,"Dairy, Bread & Batter",94.0,6
+1616,So Good Almond Milk - Natural Unsweetened,"Dairy, Bread & Batter",70.0,4
+1617,Amul Cheese Sauce Jalapeno,"Dairy, Bread & Batter",75.0,5
+1618,D'lecta Cream Cheese,"Dairy, Bread & Batter",161.0,4
+1619,Dlecta Natural Cheddar Slices,"Dairy, Bread & Batter",189.0,6
+1620,Suguna Heart- Omega3,"Dairy, Bread & Batter",62.0,4
+1621,Go Cheese Spread - Garlic,"Dairy, Bread & Batter",94.0,6
+1622,Go Pizza Cheese,"Dairy, Bread & Batter",133.0,6
+1623,RRO Cheddar Block Cheese,"Dairy, Bread & Batter",147.0,6
+1624,The Whole Truth Peanut Butter With Dates - Creamy No Sugar,"Dairy, Bread & Batter",194.0,6
+1625,Suguna Fit Egg,"Dairy, Bread & Batter",68.0,4
+1626,RRO Fresh Ricotta,"Dairy, Bread & Batter",137.0,6
+1627,Dlecta Cheese Cubes 2,"Dairy, Bread & Batter",137.0,6
+1628,RRO Mozzarella Pizza Cheese,"Dairy, Bread & Batter",137.0,6
+1629,The Laughing Cow Cheese Cubes,"Dairy, Bread & Batter",150.0,4
+1630,Yogabar 100% Pure Peanut Butter Creamy & Yummy Unsweetened,"Dairy, Bread & Batter",206.0,6
+1631,RRO Burrata Cheese,"Dairy, Bread & Batter",125.0,4
+1632,The Whole Truth Dark Chocolate Peanut Butter - Crunchy,"Dairy, Bread & Batter",188.0,5
+1633,Go Cheese Processed Squares,"Dairy, Bread & Batter",118.0,6
+1634,Funfoods Peanut Butter Crunchy,"Dairy, Bread & Batter",156.0,1
+1635,Amul Safed Makkhan,"Dairy, Bread & Batter",232.0,6
+1636,Go Cheese Spread - Four Pepper (Soft & Creamy),"Dairy, Bread & Batter",94.0,6
+1637,Laughing Cow Cheese 8 Portion 120Gm Imported,"Dairy, Bread & Batter",110.0,6
+1638,The Whole Truth Peanut Butter - Sweetened & Crunchy,"Dairy, Bread & Batter",172.0,6
+1639,Go Processed Cheese Block,"Dairy, Bread & Batter",119.0,6
+1640,Go Cheese Processed Block,"Dairy, Bread & Batter",237.0,6
+1641,RRO Goat Milk Fetta Cheee,"Dairy, Bread & Batter",237.0,6
+1642,RRO Mascarpone Cheese,"Dairy, Bread & Batter",177.0,6
+1643,D'lecta Cheddar Cheese,"Dairy, Bread & Batter",189.0,6
+1644,Funfoods Peanut Butter Creamy,"Dairy, Bread & Batter",169.0,1
+1645,Dlecta Cheese Block,"Dairy, Bread & Batter",145.0,6
+1646,President Butter - Salted,"Dairy, Bread & Batter",54.0,6
+1647,The Laughing Cow Plain Processed Cheese Block,"Dairy, Bread & Batter",150.0,6
+1648,Yoga Bar Peanut Butter Dark Chocolate Jar,"Dairy, Bread & Batter",249.0,4
+1649,The Laughing Cow Cheese Spread Plain,"Dairy, Bread & Batter",110.0,6
+1650,Amul Malai Paneer Fresh,"Dairy, Bread & Batter",73.0,0
+1651,Amul Taaza Toned Homogenised Milk,"Dairy, Bread & Batter",64.0,0
+1652,Amul Lactose Free Milk,"Dairy, Bread & Batter",24.0,0
+1653,The Bake Shop Whole Wheat Bread,"Dairy, Bread & Batter",40.0,0
+1654,Amul Slim Trim Skimmed Milk,"Dairy, Bread & Batter",75.0,0
+1655,Amul Pizza Cheese - Mozzarella,"Dairy, Bread & Batter",99.0,0
+1656,The Bake Shop Pizza Base Whole Wheat,"Dairy, Bread & Batter",30.0,0
+1657,Nestle A+ Slim Dahi - Low Fat,"Dairy, Bread & Batter",75.0,0
+1658,Britannia Cheese Garlic Bread,"Dairy, Bread & Batter",35.0,0
+1659,The Bake Shop Whole Wheat Ladi Pav,"Dairy, Bread & Batter",40.0,0
+1660,Amul Cheese Spread Yummy Plain,"Dairy, Bread & Batter",85.0,0
+1661,Britannia Atta Kulcha,"Dairy, Bread & Batter",30.0,0
+1662,Suguna Nourish Egg,"Dairy, Bread & Batter",62.0,0
+1663,The Bake Shop Multi Grain Bread,"Dairy, Bread & Batter",65.0,0
+1664,Nestle A+ Slim Milk,"Dairy, Bread & Batter",89.0,0
+1665,Go Cheese Pizza Blend Mozzarella + Cheddar,"Dairy, Bread & Batter",118.0,0
+1666,The Whole Truth Peanut Butter - Unsweetened & Crunchy,"Dairy, Bread & Batter",148.0,0
+1667,Amul Cheese Spread Spicy Garlic,"Dairy, Bread & Batter",82.0,0
+1668,The Bake Shop Burger Buns,"Dairy, Bread & Batter",20.0,0
+1669,D'lecta Shredded Mozzarella Cheese,"Dairy, Bread & Batter",95.0,0
+1670,Suguna Vitamin D Egg,"Dairy, Bread & Batter",62.0,0
+1671,Pillsbury Pancake Mix - Funfetti,"Dairy, Bread & Batter",88.0,0
+1672,Prabhat Malai Paneer Pouch,"Dairy, Bread & Batter",80.0,0
+1673,RRO Mozzarella Block Cheese,"Dairy, Bread & Batter",147.0,0
+1674,iD Malabar Parota,Packaged Food,72.0,4
+1675,iD Wheat Lachha Paratha,Packaged Food,70.0,6
+1676,McCain Aloo Tikki,Packaged Food,105.0,6
+1677,McCain Smiles Cripsy Happy Potatoes,Packaged Food,114.0,6
+1678,McCain Veggie Burger Patty,Packaged Food,111.0,6
+1679,McCain Veggie Fingers,Packaged Food,111.0,6
+1680,Whiskas Wet  Meal (Adult - Cat Food)  Chicken in Gravy,Packaged Food,34.0,2
+1681,McCain Chilli Garlic Potato Bites Crunchy Potato Nuggets,Packaged Food,118.0,1
+1682,Veeba Eggless Mayonnaise,Packaged Food,70.0,5
+1683,Veeba Pasta And Pizza Sauce,Packaged Food,65.0,5
+1684,Unibic Almond & Oats Protein Bar,Packaged Food,33.0,4
+1685,McCain French Fries,Packaged Food,114.0,1
+1686,Ching's Secret Manchow Instant Soup,Packaged Food,10.0,1
+1687,McCain Potato Cheese Shotz,Packaged Food,124.0,6
+1688,McCain Masala - Fries,Packaged Food,114.0,3
+1689,Ching's Secret Schezwan Fried Rice Masala,Packaged Food,15.0,6
+1690,McCain Chilli Cheesy Nuggets,Packaged Food,124.0,1
+1691,"Whiskas Adult (+1 Year) Dry Cat Food, Ocean Fish Flavour",Packaged Food,387.0,6
+1692,Chings Instant Soup - Hot & Sour,Packaged Food,10.0,1
+1693,Amul Spray Infant Milk Food,Packaged Food,193.0,6
+1694,McCain Smiles - Pudina Chatka,Packaged Food,114.0,3
+1695,McCain French Fries Crisp & Delicious,Packaged Food,167.0,3
+1696,Ferrero Nutella Hazelnut Spread,Packaged Food,207.0,2
+1697,Lijjat Garlic Papad,Packaged Food,57.0,5
+1698,Switz Samosa Dough Sheets,Packaged Food,86.0,6
+1699,Maggi Imli Sauce Pichkoo,Packaged Food,22.0,6
+1700,Whiskas Kitten (2-12 months) Dry Cat Food Food Ocean Fish,Packaged Food,347.0,5
+1701,Chings Instant Soup - Sweet Corn Veg,Packaged Food,10.0,2
+1702,Whiskas Wet  Meal (Kitten - Cat Food)  Chicken in Gravy,Packaged Food,33.0,2
+1703,McCain Crazy Fries Masala MixHot 'n' Tangy,Packaged Food,114.0,6
+1704,The Whole Truth Double Cocoa Protein Bar No Sugar,Packaged Food,90.0,6
+1705,Amul Happy Treats French Fries,Packaged Food,65.0,1
+1706,Ferrero Nutella Hazeulnut Spread,Packaged Food,357.0,5
+1707,Veeba Chipolte Southwest Dressing,Packaged Food,149.0,4
+1708,Ching's Secret Manchow Noodles Instant Soup,Packaged Food,15.0,6
+1709,Yoga Bar Breakfast Protein Bar - Blueberry Pie,Packaged Food,44.0,1
+1710,The Whole Truth Mini Protein Bar - Coconut Cocoa No Added Sugar,Packaged Food,41.0,6
+1711,Switz Spring Roll Dough Sheets,Packaged Food,86.0,6
+1712,Unibic Fruit & Nut Real Cranberries & Almonds Protein Bar,Packaged Food,33.0,6
+1713,Ching's Secret Tomato Instant Soup,Packaged Food,10.0,1
+1714,Kellogg's Crunchy Fruit & Nut Breakfast Cereals Muesli,Packaged Food,401.0,6
+1715,Ching's Secret Chilli Vinegar,Packaged Food,50.0,4
+1716,Ching's Red Chilli Sauce,Packaged Food,55.0,6
+1717,The Whole Truth Cranberry Mini Protein Bar No Sugar,Packaged Food,44.0,6
+1718,The Whole Truth Mini Protein Bar - Coffee Cocoa No Added Sugar,Packaged Food,44.0,6
+1719,Maggi Hot & Sweet Tomato Chilli Sauce,Packaged Food,115.0,1
+1720,Sunfeast YiPPee! Noodles - Magic Masala,Packaged Food,91.0,4
+1721,Veeba Cheese and Chilli Sandwich Spread,Packaged Food,79.0,6
+1722,The Whole Truth Peanut Cocoa Mini Protein Bar No Sugar,Packaged Food,41.0,6
+1723,Gits Pav Bhaji Ready to Eat,Packaged Food,85.0,6
+1724,Lijjat Udad Mini Papad,Packaged Food,56.0,6
+1725,McCain Herb & Garlic Crazy Fries Masala Mix,Packaged Food,114.0,5
+1726,Yoga Bar Multigrain Energy Bar Nuts And Seeds,Packaged Food,35.0,4
+1727,"Ching's Secret Sauce, Green Chilli",Packaged Food,55.0,5
+1728,Veeba Pizza Topping,Packaged Food,70.0,4
+1729,Switz Paratha Puff,Packaged Food,105.0,6
+1730,"New Kellogg's Muesli with 21% Fruit, Nut & Seeds",Packaged Food,305.0,6
+1731,The Whole Truth Double Cocoa Mini Protein Bar No Sugar,Packaged Food,44.0,5
+1732,Sunfeast Yippee Tricolor Pasta Seasoning,Packaged Food,23.0,1
+1733,Wingreens Cheesy Chipotle Sauce,Packaged Food,50.0,1
+1734,Maggi Rich Tomato Ketchup,Packaged Food,100.0,2
+1735,Kellogg's Real Almond & Honey Corn Flakes,Packaged Food,158.0,6
+1736,The Whole Truth Vegan Almond Choco Fudge Energy Bar No Sugar,Packaged Food,48.0,6
+1737,Prasuma Vegetable Momos,Packaged Food,270.0,5
+1738,MTR Upma,Packaged Food,45.0,6
+1739,The Whole Truth Cranberry Protein Bar No Sugar,Packaged Food,74.0,6
+1740,Veeba English Mustard,Packaged Food,69.0,2
+1741,Yoga Bar Breakfast Muesli - Almond Caramel (No Added Sugar),Packaged Food,309.0,6
+1742,The Whole Truth Mini Protein Bar - Peanut Butter No Added Sugar,Packaged Food,41.0,6
+1743,ITC Master Chef Crispy Chicken Fries,Packaged Food,162.0,3
+1744,Kelloggs Corn Flakes,Packaged Food,86.0,6
+1745,Smith & Jones White Pasta Sauce Mix,Packaged Food,40.0,3
+1746,Mothers Recipe Tamrind Date Chutney,Packaged Food,50.0,2
+1747,Veeba Mint Mayonnaise,Packaged Food,155.0,4
+1748,Mccain Emotibites - Crispy Happy Potato Snack,Packaged Food,129.0,6
+1749,The Whole Truth Energy Bar Choco Cranberry Fudge,Packaged Food,44.0,6
+1750,Godrej Yummiez Chicken Lucknowi Seekh Kebab,Packaged Food,234.0,4
+1751,Mother's Recipe Mixed Pickle,Packaged Food,77.0,2
+1752,The Whole Truth Peanut Cocoa Protein Bar No Sugar,Packaged Food,74.0,6
+1753,Yoga Bar Breakfast Muesli - Chocolate & Cranberry,Packaged Food,309.0,6
+1754,Veeba Sweet Onion Sauce,Packaged Food,121.0,4
+1755,Yogabar No Added Sugar Protein Bar Brownie,Packaged Food,106.0,4
+1756,Bambino Popular Vermicelli,Packaged Food,39.0,3
+1757,Ching's Secret Mix Veg Instant Soup,Packaged Food,10.0,3
+1758,Mother's Recipe Pickle - Red Stuffed Chilli,Packaged Food,129.0,3
+1759,Kellogg's No Added Sugar Muesli,Packaged Food,298.0,6
+1760,Veeba Salsa Dip,Packaged Food,111.0,6
+1761,Veeba Thousand Island Dressing,Packaged Food,137.0,6
+1762,Baggry's Crunchy Muesli Almond Raisins & Honey,Packaged Food,130.0,5
+1763,Knorr Chinese Hot And Sour Veg Soup,Packaged Food,53.0,1
+1764,Kissan Pineapple Jam,Packaged Food,149.0,1
+1765,Smith & Jones Masala Noodles,Packaged Food,89.0,5
+1766,Nestle Nestle Nan Pro Follow-Up Formula,Packaged Food,650.0,6
+1767,McCain Super Wedges,Packaged Food,111.0,6
+1768,"Kellogg's Crunchy Granola Honey, Almonds, Strawberries & Pumpkin Seeds",Packaged Food,294.0,1
+1769,Kellogg's Chocos,Packaged Food,117.0,6
+1770,Ching's Secret Just Soak - Whole Wheat Veg Hakka Noodle,Packaged Food,32.0,3
+1771,The Whole Truth Vegan Fig Apricot & Orange Energy Bar No Sugar,Packaged Food,48.0,6
+1772,ITC Master Chef Classic Aloo Tikki,Packaged Food,72.0,3
+1773,Smith & Jones Pink Pasta Sauce Mix,Packaged Food,40.0,4
+1774,Wingreens Farms Chipotle Dip,Packaged Food,150.0,1
+1775,Kellogg's Crunchy Granola Chocolate & Almonds,Packaged Food,294.0,3
+1776,Cornitos Cornitos Taco Shells - 6 Inches,Packaged Food,128.0,4
+1777,Ching's Secret Singapore Curry Instant Noodles,Packaged Food,15.0,3
+1778,Mother's Recipe Pickle - Mango,Packaged Food,113.0,6
+1779,Pedigree Dentastix  Dog Treat Oral Care for Adult Medium Breed,Packaged Food,140.0,6
+1780,Maggi Hot & Sweet - Tomato Chilli Sauce,Packaged Food,153.0,1
+1781,Ching's Secret Asian Hot Instant Soup,Packaged Food,15.0,3
+1782,Kellogg’s Chocos Protein And Fibre Of 1 Roti,Packaged Food,444.0,6
+1783,Chings Secret Manchurian Instant Noodle,Packaged Food,60.0,6
+1784,Kellogg's Original Corn Flakes,Packaged Food,290.0,6
+1785,Kellogg's Almonds And Cranberries Granola,Packaged Food,310.0,6
+1786,Nestle Ceregrow Multigrain Cereal with Milk and Fruits - 3 to 6 years,Packaged Food,292.0,6
+1787,MTR 3 Minute Breakfast - Magic Masala Upma,Packaged Food,25.0,6
+1788,"Knorr Classic Tomato Soup With 100% Real Vegetabls, No Added Preservatives",Packaged Food,55.0,6
+1789,Kellogg's Corn Flakes,Packaged Food,383.0,1
+1790,Kelloggs Chocos,Packaged Food,160.0,4
+1791,Pedigree Puppy Dry Dog Food Food Chicken & Milk,Packaged Food,232.0,6
+1792,Ching's Secret Lemon Coriander Instant Soup,Packaged Food,15.0,5
+1793,Nestle Cerelac Baby Cereal With Milk Wheat-Rice Mixed Fruit,Packaged Food,261.0,6
+1794,Kelloggs Chocos - Moons & Stars,Packaged Food,396.0,4
+1795,ITC Master Chef Chicken Galouti Kebab,Packaged Food,162.0,2
+1796,Kitchens Of India Palak Paneer,Packaged Food,91.0,6
+1797,Kelloggs Chocos Fills Double Chocolat,Packaged Food,88.0,6
+1798,Soulfull Ragi Bites Choco Fills,Packaged Food,160.0,4
+1799,Figaro Sliced Black Olive,Packaged Food,179.0,6
+1800,Veeba Barbeque Sauce,Packaged Food,137.0,6

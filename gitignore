@@ -1,0 +1,6 @@
+__pycache__/
+*.pyc
+bills.json
+bills.txt
+zepto_v1.xlsx
+*.ipynb
